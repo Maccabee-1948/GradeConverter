@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author markB
+ * @author maccabee_1948
  */
 public class GradeConverter {
 
